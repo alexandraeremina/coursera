@@ -4,15 +4,7 @@
 h1 {
 	text-align: center;
 }
-p#foodtype1 {
-	background-color: #ffb6c1
-}
-p#foodtype2 {
-	background-color: #CD5C5C
-}
-p#foodtype3 {
-	background-color: #85C1E9
-}
+
 .box {
 	background-color: #B2AFAE;
 	/*width: 32%;*/
@@ -43,6 +35,15 @@ p.foodtype {
 	margin-top: 0px;
 	margin-bottom: 0px;	
 	float: right;
+}
+p#foodtype1 {
+	background-color: #ffb6c1
+}
+p#foodtype2 {
+	background-color: #CD5C5C
+}
+p#foodtype3 {
+	background-color: #85C1E9
 }
 .row {
 	width: 100%;
