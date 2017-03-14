@@ -1,6 +1,3 @@
-body {
-	
-}
 /*HEADER*/
 #header-nav {
 	background-color: #85C1E9;
@@ -40,3 +37,10 @@ a h1 {
 	background-color: #85C1E9;
 	height: auto;
 }
+section {
+	padding: 15px;
+	text-align: justify;
+	font-size: 1.1em;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;	
+	color: black;
+}	
